@@ -1,3 +1,35 @@
+# 🎬 IMDB Clone
+
+## 📌 Overview  
+A movie review and rating platform like IMDb with **search, reviews, ratings, and watchlist** features.
+
+## 🎯 Features
+- Movie search  
+- Ratings & reviews  
+- Watchlist  
+
+
+## 🧠 Tech Stack
+- Java | Spring Boot
+- React / HTML-CSS-JS
+- MySQL
+- REST APIs | JWT
+
+## ▶️ Run Backend
+```bash
+mvn spring-boot:run
+▶️ Run Frontend
+bash
+Copy code
+npm install
+npm start
+🎥 Demo
+🔗 https://drive.google.com/file/d/1NJ17pgSJCPzB4klqa4tnvjW8n72r36A7/view?usp=sharing
+
+🏁 Outcome
+Full-stack movie discovery system with authentication & CRUD.
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
